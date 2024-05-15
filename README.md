@@ -25,7 +25,7 @@
         <img src="https://avatars.githubusercontent.com/hyun7520" width="100px;" alt="" /><br/>
       </a>
         <sub>
-          <b>나정균</b>
+          <b>고상현</b>
         </sub>
     </td>
     <td align="center">
@@ -33,7 +33,7 @@
         <img src="https://avatars.githubusercontent.com/Junkling" width="100px;" alt="" /><br/>
       </a>
         <sub>
-          <b>나정균</b>
+          <b>김준혁</b>
         </sub>
     </td>
     <td align="center">
@@ -41,7 +41,7 @@
         <img src="https://avatars.githubusercontent.com/gae-bak" width="100px;" alt="" /><br/>
       </a>
         <sub>
-          <b>나정균</b>
+          <b>박웅서</b>
         </sub>
     </td>
   </tr>
