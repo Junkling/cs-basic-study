@@ -20,6 +20,30 @@
           <b>나정균</b>
         </sub>
     </td>
+    <td align="center">
+      <a href="https://github.com/hyun7520">
+        <img src="https://avatars.githubusercontent.com/hyun7520" width="100px;" alt="" /><br/>
+      </a>
+        <sub>
+          <b>나정균</b>
+        </sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Junkling">
+        <img src="https://avatars.githubusercontent.com/Junkling" width="100px;" alt="" /><br/>
+      </a>
+        <sub>
+          <b>나정균</b>
+        </sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gae-bak">
+        <img src="https://avatars.githubusercontent.com/gae-bak" width="100px;" alt="" /><br/>
+      </a>
+        <sub>
+          <b>나정균</b>
+        </sub>
+    </td>
   </tr>
 </table>
 
