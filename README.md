@@ -44,6 +44,14 @@
           <b>박웅서</b>
         </sub>
     </td>
+    <td align="center">
+      <a href="https://github.com/dhrcksgur1">
+        <img src="https://avatars.githubusercontent.com/dhrcksgur1" width="100px;" alt="" /><br/>
+      </a>
+        <sub>
+          <b>옥찬혁</b>
+        </sub>
+    </td>
   </tr>
 </table>
 
