@@ -17,7 +17,7 @@
 
 ### 뮤텍스 락(Mutex Lock)
 
-!https://velog.velcdn.com/images%2Fwoosung0420k%2Fpost%2F380eb049-bb26-472e-9c9a-c334194c3911%2Fimage.png
+![image](https://velog.velcdn.com/images%2Fwoosung0420k%2Fpost%2F380eb049-bb26-472e-9c9a-c334194c3911%2Fimage.png)
 
 - 이진 세마포어의 일종으로 자원에 lock을 걸면서 동기화 문제를 해결한다.
 - 상호 배제 개념을 이용하며 Critical Section을 가진 쓰레드들이 각각 단독으로 실행되게 하는 기술
@@ -26,7 +26,7 @@
 
 ### 세마포어 (Semaphore)
 
-!https://velog.velcdn.com/images%2Fwoosung0420k%2Fpost%2F4f5e57a4-b249-4b9a-a0e3-80c183836cd8%2Fimage.png
+![image](https://velog.velcdn.com/images%2Fwoosung0420k%2Fpost%2F4f5e57a4-b249-4b9a-a0e3-80c183836cd8%2Fimage.png)
 
 - 자원을 할당하는 P연산과 자원을 해제하는 V연산이 있다.
 - Critical Section에 들어가기 전 세마포어의 Counter 변수를 통해 자원에 접근가능한지 확인한다.
