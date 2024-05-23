@@ -114,29 +114,10 @@
   1. Array vs LinkedList
   2. Stack and Queue
   3. Tree
-     - Binary Tree
-     - Full Binary Tree
-     - Complete Binary Tree
-     - BST (Binary Search Tree)
   4. Binary Heap
   5. Red-Black Tree
-     - 정의
-     - 특징
-     - 삽입
-     - 삭제
   6. Hash Table
-     - Hash Function
-     - Resolve Collision
-       - Open Addressing
-       - Separate Chaining
-     - Resize
   7. Graph
-     - Graph 용어 정리
-     - Graph 구현
-     - Graph 탐색
-     - Minimum Spanning Tree
-       - Kruskal algorithm
-       - Prim algorithm
      
 
 ## 📆 스터디 일정
