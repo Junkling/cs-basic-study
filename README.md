@@ -4,7 +4,8 @@
 
 > 주제: 기술면접을 위한 스터디입니다.
 
-> 참고: [gyoogle님의 기술 면접 백과사전](https://github.com/gyoogle/tech-interview-for-developer?tab=readme-ov-file)
+> 참고: [gyoogle님의 기술 면접 백과사전](https://github.com/gyoogle/tech-interview-for-developer?tab=readme-ov-file),
+> [JaeYeopHan님의 기술 면접](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
 <br/>
 
@@ -93,6 +94,50 @@
   9. 가상 메모리
   10. 캐시의 지역성
 
+- `데이터베이스`
+  1. 데이터베이스
+  2. Index
+  3. 정규화
+  4. Transaction
+  5. Statement vs PreparedStatement
+  6. NoSQL
+ 
+- `네트워크`
+  1. GET, POST 방식의 차이점
+  2. TCP 3-way-handsahke
+  3. TCP 와 UDP의 차이점
+  4. HTTP 와 HTPPS의 차이점
+  5. DNS round robin 방식
+  6. 웹 통신의 큰 흐름
+ 
+- `자료구조`
+  1. Array vs LinkedList
+  2. Stack and Queue
+  3. Tree
+     - Binary Tree
+     - Full Binary Tree
+     - Complete Binary Tree
+     - BST (Binary Search Tree)
+  4. Binary Heap
+  5. Red-Black Tree
+     - 정의
+     - 특징
+     - 삽입
+     - 삭제
+  6. Hash Table
+     - Hash Function
+     - Resolve Collision
+       - Open Addressing
+       - Separate Chaining
+     - Resize
+  7. Graph
+     - Graph 용어 정리
+     - Graph 구현
+     - Graph 탐색
+     - Minimum Spanning Tree
+       - Kruskal algorithm
+       - Prim algorithm
+     
 
 ## 📆 스터디 일정
 | 날짜    | 진행한 분량      | 비고            |
@@ -100,4 +145,11 @@
 | 24/5/15 | 진행방식 논의    | --              |
 | 24/5/16 | 운영체제 1 - 3  | --              |
 | 24/5/17 | 운영체제 4 - 6  | --              |
-| 24/5/18 | 운영체제 7 - 10 | --              |
+| 24/5/20 | 운영체제 7 - 9 | --              |
+| 24/5/21 | 운영체제 10, 데이터베이스 1 - 3 | --              |
+| 24/5/22 | 데이터베이스 4 - 6 | --              |
+| 24/5/23 | 네트워크 1 - 3 | --              |
+| 24/5/24 | 네트워크 4 - 6 | --              |
+| 24/5/27 | 자료구조 1 - 3 | --              |
+| 24/5/38 | 운영체제 4 - 6 | --              |
+
