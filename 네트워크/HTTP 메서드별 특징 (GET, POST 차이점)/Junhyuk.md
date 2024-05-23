@@ -2,7 +2,7 @@
 
 ## HTTP 메서드의 특성
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/552fe0dc-fdb3-4c62-979e-df2a2e235613/5970b2ce-5f17-4683-9ee1-05a6237f7f22/Untitled.png)
+![image](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F552fe0dc-fdb3-4c62-979e-df2a2e235613%2F5970b2ce-5f17-4683-9ee1-05a6237f7f22%2FUntitled.png?table=block&id=418e4a04-dc86-4373-aa62-1787953f4302&spaceId=552fe0dc-fdb3-4c62-979e-df2a2e235613&width=2000&userId=a09a1ca3-4214-4905-a7a2-172e60f8cd39&cache=v2)
 
 **안전** : 리소스를 변경하지 않는다. 
 
@@ -70,7 +70,7 @@ GET은 **Idempotent**, POST는 **Non-idempotent**.
 
 ### Get과 Post의 차이점 정리
 
-!https://blog.kakaocdn.net/dn/cFrp2h/btrGKSnYAQV/czqwff4JXfBNzzsffX6g40/img.png
+![image](https://blog.kakaocdn.net/dn/cFrp2h/btrGKSnYAQV/czqwff4JXfBNzzsffX6g40/img.png)
 
 ### GET VS POST
 
