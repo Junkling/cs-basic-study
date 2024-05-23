@@ -61,7 +61,7 @@ IP는 Internet Protocol의 줄임말로, 인터넷에서 컴퓨터의 위치를
 7. 체크섭(2)
 8. urgent pointer (2)
 
-![image](https://github.com/5dotseven/cs-basic-study/assets/106804716/c878332c-1154-498c-ae61-57ff8637c872)
+![image](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F013f0b65-af5c-41b2-9a4f-4cf98dfe7eba%2FUntitled.png?table=block&id=c073f0cf-0763-4fb7-901b-6246c11e1a42&spaceId=552fe0dc-fdb3-4c62-979e-df2a2e235613&width=2000&userId=a09a1ca3-4214-4905-a7a2-172e60f8cd39&cache=v2)
 
 **UDP header**
 
@@ -70,4 +70,4 @@ IP는 Internet Protocol의 줄임말로, 인터넷에서 컴퓨터의 위치를
 3. 데이터 길이 (2 바이트)
 4. UDP 체크섬 (2 바이트)
 
-![image](https://github.com/5dotseven/cs-basic-study/assets/106804716/46651b7a-bcfa-4543-a070-644d91ea5f18)
+![image](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9b8427d5-fd75-43a2-a1bb-5acb73cd7201%2FUntitled.png?table=block&id=23bdd5d9-bbc9-42e0-9c01-49324115cfc5&spaceId=552fe0dc-fdb3-4c62-979e-df2a2e235613&width=2000&userId=a09a1ca3-4214-4905-a7a2-172e60f8cd39&cache=v2)
