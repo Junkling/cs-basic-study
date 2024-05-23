@@ -29,7 +29,7 @@ A클라이언트는 B서버에게 ACK을 보내고 이후로부터는 연결이 
 
 위와 같은 방식으로 통신하는것이 신뢰성 있는 연결을 맺어 준다는 TCP의 3 Way handshake 방식이다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fbb1feaa-e19d-4374-af01-bf232eee5995/Untitled.png)
+![image](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ffbb1feaa-e19d-4374-af01-bf232eee5995%2FUntitled.png?table=block&id=1d3043d4-fa17-4333-ad53-68aa7471dcf5&spaceId=552fe0dc-fdb3-4c62-979e-df2a2e235613&width=2000&userId=a09a1ca3-4214-4905-a7a2-172e60f8cd39&cache=v2)
 
 - **TCP의 4-way Handshaking 과정**
 
@@ -49,4 +49,4 @@ A클라이언트는 B서버에게 ACK을 보내고 이후로부터는 연결이 
 
 클라이언트는 확인했다는 메시지를 보낸다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c6ab59ad-0985-407a-b1c3-a23fff1d81fe/Untitled.png)
+![image](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc6ab59ad-0985-407a-b1c3-a23fff1d81fe%2FUntitled.png?table=block&id=aa49f162-0b0a-4270-a8fa-2801e51ee967&spaceId=552fe0dc-fdb3-4c62-979e-df2a2e235613&width=2000&userId=a09a1ca3-4214-4905-a7a2-172e60f8cd39&cache=v2)
