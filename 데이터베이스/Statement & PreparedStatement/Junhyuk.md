@@ -52,25 +52,25 @@ PreparedStatement은 준비된 Statement 이다.
 
 ### org/h2/jdbc/JdbcPreparedStatement.java
 
-!https://blog.kakaocdn.net/dn/brhhmp/btrMjdfV8tL/ivagWd0ev1ukkagQwvlRaK/img.png
+![image](https://blog.kakaocdn.net/dn/brhhmp/btrMjdfV8tL/ivagWd0ev1ukkagQwvlRaK/img.png)
 
 ### PreparedStatement 내부
 
 quote내부로 들어가면 아래와 같이 **StringUtils.quoteJavaString()** 메서드가 나온다.
 
-!https://blog.kakaocdn.net/dn/A65Ni/btrMjWxIfgu/2cgPBwHXZzF542KEUQ1Qe1/img.png
+![image](https://blog.kakaocdn.net/dn/A65Ni/btrMjWxIfgu/2cgPBwHXZzF542KEUQ1Qe1/img.png)
 
 ### quote
 
 해당 메서드에 들어가면 아래가 나오고 다시 javaEncode에 들어간다.
 
-!https://blog.kakaocdn.net/dn/ckS2vT/btrMnKP5dZL/ZSmMmettKJMvHzDXB9hKLk/img.png
+![image](https://blog.kakaocdn.net/dn/ckS2vT/btrMnKP5dZL/ZSmMmettKJMvHzDXB9hKLk/img.png)
 
 ### quote 내부
 
 아래처럼 String으로 들어온 값들을 하나씩 돌면서 java스타일에 맞게 인코딩해준다.
 
-!https://blog.kakaocdn.net/dn/2bUbO/btrMlUMfy8E/spjn41fOML7p2FknbHltNk/img.png
+![image](https://blog.kakaocdn.net/dn/2bUbO/btrMlUMfy8E/spjn41fOML7p2FknbHltNk/img.png)
 
 **자동 인코딩**
 
