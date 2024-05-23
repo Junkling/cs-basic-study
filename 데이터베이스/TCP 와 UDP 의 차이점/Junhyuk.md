@@ -61,7 +61,7 @@ IP는 Internet Protocol의 줄임말로, 인터넷에서 컴퓨터의 위치를
 7. 체크섭(2)
 8. urgent pointer (2)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/013f0b65-af5c-41b2-9a4f-4cf98dfe7eba/Untitled.png)
+![image](https://github.com/5dotseven/cs-basic-study/assets/106804716/c878332c-1154-498c-ae61-57ff8637c872)
 
 **UDP header**
 
@@ -70,4 +70,4 @@ IP는 Internet Protocol의 줄임말로, 인터넷에서 컴퓨터의 위치를
 3. 데이터 길이 (2 바이트)
 4. UDP 체크섬 (2 바이트)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9b8427d5-fd75-43a2-a1bb-5acb73cd7201/Untitled.png)
+![image](https://github.com/5dotseven/cs-basic-study/assets/106804716/46651b7a-bcfa-4543-a070-644d91ea5f18)
