@@ -103,7 +103,7 @@
   5. Statement vs PreparedStatement
   6. NoSQL
  
-- [`네트워크`](https://github.com/5dotseven/cs-basic-study/tree/main/OS/네트워크)
+- [`네트워크`](https://github.com/5dotseven/cs-basic-study/tree/main/네트워크)
   1. GET, POST 방식의 차이점
   2. TCP 3-way-handsahke
   3. TCP 와 UDP의 차이점
