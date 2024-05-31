@@ -110,6 +110,10 @@
   4. Transaction
   5. Statement vs PreparedStatement
   6. NoSQL
+  7. 트랜잭션 격리수준
+  8. Replication
+  9. 샤딩
+  10. 파티셔닝
  
 - [`네트워크`](https://github.com/5dotseven/cs-basic-study/tree/main/네트워크)
   1. GET, POST 방식의 차이점
@@ -118,6 +122,12 @@
   4. HTTP 와 HTPPS의 차이점
   5. DNS round robin 방식
   6. 웹 통신의 큰 흐름
+  7. 로드밸런싱
+  8. CORS
+  9. 쿠키 세션
+  10. 웹소켓
+  11. RESTful의 개념
+  12. TCP와 UDP의 헤더 분석
  
 - [`자료구조`](https://github.com/5dotseven/cs-basic-study/tree/main/자료구조)
   1. Array vs LinkedList
@@ -145,5 +155,9 @@
 | 24/5/27 | 자료구조 1 - 3 | --              |
 | 24/5/28 | 자료구조 4 - 6 | --              |
 | 24/5/29 | 자료구조 7 - 9 | --              |
+| 24/5/30 | 네트워크 7 - 8 | --              |
+| 24/5/31 | 네트워크 9 - 10 | --              |
+| 24/6/03 | 네트워크 11 - 12 | --              |
+
 
 
